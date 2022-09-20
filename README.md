@@ -1,5 +1,5 @@
 # BookStore
-Project from 2021
+Project from Spring 2021
 
 Note: Many feautures are Not Yet Implemented (NYI)
 
